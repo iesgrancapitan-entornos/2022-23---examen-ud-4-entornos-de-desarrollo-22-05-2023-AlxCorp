@@ -3,10 +3,16 @@ Clase Perro.
 
 Autor: Jaime Rabasco Ronda.
 """
+
+
 class Perro:
+    def __init__(self):
+        Perro.ladrar()
 
-    def ladrar(self):
-        print('Guau');
+    @classmethod
+    def ladrar(cls):
+        print('Guau')
 
-p = Perro();
-p.ladrar();
+
+p = Perro()
+p.ladrar()
