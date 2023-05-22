@@ -1,10 +1,7 @@
 """
 Clase Coche base para el Examen de la UD4
 Refactorización
-Extrae una superclase Vehículo con los campos
-    num_serie
-    fabricante
-    color
+Extrae una superclase Vehículo con los campos.
 :autor: Alejandro Priego Izquierdo.
 """
 

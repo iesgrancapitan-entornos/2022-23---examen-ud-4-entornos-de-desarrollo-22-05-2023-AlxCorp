@@ -2,6 +2,7 @@
 Clase Perro.
 
 Autor: Alejandro Priego Izquierdo.
+
 """
 
 
